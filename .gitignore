@@ -1,0 +1,6 @@
+.DS_Store
+dist/
+django_es2015_transformer.egg-info/
+__pycache__/
+Django-*.egg
+*.pyc
